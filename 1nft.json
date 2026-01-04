@@ -1,0 +1,17 @@
+{
+  "name": "NFT",
+  "symbol": "F",
+  "description": "1 nft",
+  "image": "https://raw.githubusercontent.com/logins666/NFT/main/nft.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/logins666/NFT/main/nft.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
